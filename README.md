@@ -45,7 +45,6 @@ python tdm_crumb_chameleon.py --scenario ni --run 1
 
 Optional arguments:
 ```bash
---replay_method er
 --memory_blocks 128
 --block_size 32
 --buffer_weight 0.5
